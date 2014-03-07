@@ -1,23 +1,23 @@
-00:13:34.218 [main] INFO  aj.logging.main.loggers.JclLogger - Hello 0
-00:13:34.222 [main] DEBUG aj.logging.main.loggers.JclLogger - I am on index 1
-00:13:34.223 [main] INFO  aj.logging.main.loggers.JclLogger - Hello 2
-00:13:34.223 [main] DEBUG aj.logging.main.loggers.JclLogger - I am on index 3
-00:13:34.223 [main] INFO  aj.logging.main.loggers.JclLogger - Hello 4
-00:13:34.223 [main] DEBUG aj.logging.main.loggers.JclLogger - I am on index 5
-00:13:34.223 [main] INFO  aj.logging.main.loggers.JclLogger - Hello 6
-00:13:34.223 [main] DEBUG aj.logging.main.loggers.JclLogger - I am on index 7
-00:13:34.223 [main] INFO  aj.logging.main.loggers.JclLogger - Hello 8
-00:13:34.223 [main] DEBUG aj.logging.main.loggers.JclLogger - I am on index 9
-00:13:34.241 [main] INFO  aj.logging.main.loggers.Log4jLogger - Hello 0
-00:13:34.241 [main] DEBUG aj.logging.main.loggers.Log4jLogger - I am on index 1
-00:13:34.241 [main] INFO  aj.logging.main.loggers.Log4jLogger - Hello 2
-00:13:34.241 [main] DEBUG aj.logging.main.loggers.Log4jLogger - I am on index 3
-00:13:34.241 [main] INFO  aj.logging.main.loggers.Log4jLogger - Hello 4
-00:13:34.242 [main] DEBUG aj.logging.main.loggers.Log4jLogger - I am on index 5
-00:13:34.242 [main] INFO  aj.logging.main.loggers.Log4jLogger - Hello 6
-00:13:34.242 [main] DEBUG aj.logging.main.loggers.Log4jLogger - I am on index 7
-00:13:34.242 [main] INFO  aj.logging.main.loggers.Log4jLogger - Hello 8
-00:13:34.242 [main] DEBUG aj.logging.main.loggers.Log4jLogger - I am on index 9
+00:13:34.218 [main] INFO  aj.log.client.loggers.JclLogger - Hello 0
+00:13:34.222 [main] DEBUG aj.log.client.loggers.JclLogger - I am on index 1
+00:13:34.223 [main] INFO  aj.log.client.loggers.JclLogger - Hello 2
+00:13:34.223 [main] DEBUG aj.log.client.loggers.JclLogger - I am on index 3
+00:13:34.223 [main] INFO  aj.log.client.loggers.JclLogger - Hello 4
+00:13:34.223 [main] DEBUG aj.log.client.loggers.JclLogger - I am on index 5
+00:13:34.223 [main] INFO  aj.log.client.loggers.JclLogger - Hello 6
+00:13:34.223 [main] DEBUG aj.log.client.loggers.JclLogger - I am on index 7
+00:13:34.223 [main] INFO  aj.log.client.loggers.JclLogger - Hello 8
+00:13:34.223 [main] DEBUG aj.log.client.loggers.JclLogger - I am on index 9
+00:13:34.241 [main] INFO  aj.log.client.loggers.Log4jLogger - Hello 0
+00:13:34.241 [main] DEBUG aj.log.client.loggers.Log4jLogger - I am on index 1
+00:13:34.241 [main] INFO  aj.log.client.loggers.Log4jLogger - Hello 2
+00:13:34.241 [main] DEBUG aj.log.client.loggers.Log4jLogger - I am on index 3
+00:13:34.241 [main] INFO  aj.log.client.loggers.Log4jLogger - Hello 4
+00:13:34.242 [main] DEBUG aj.log.client.loggers.Log4jLogger - I am on index 5
+00:13:34.242 [main] INFO  aj.log.client.loggers.Log4jLogger - Hello 6
+00:13:34.242 [main] DEBUG aj.log.client.loggers.Log4jLogger - I am on index 7
+00:13:34.242 [main] INFO  aj.log.client.loggers.Log4jLogger - Hello 8
+00:13:34.242 [main] DEBUG aj.log.client.loggers.Log4jLogger - I am on index 9
 00:13:34.242 [main] INFO  a.logging.main.loggers.LogbackLogger - Hello 0
 00:13:34.242 [main] DEBUG a.logging.main.loggers.LogbackLogger - I am on index 1
 00:13:34.243 [main] INFO  a.logging.main.loggers.LogbackLogger - Hello 2
@@ -28,26 +28,26 @@
 00:13:34.243 [main] DEBUG a.logging.main.loggers.LogbackLogger - I am on index 7
 00:13:34.243 [main] INFO  a.logging.main.loggers.LogbackLogger - Hello 8
 00:13:34.243 [main] DEBUG a.logging.main.loggers.LogbackLogger - I am on index 9
-01:50:58.356 [main] INFO  aj.logging.main.loggers.JclLogger - Hello 0
-01:50:58.359 [main] DEBUG aj.logging.main.loggers.JclLogger - I am on index 1
-01:50:58.360 [main] INFO  aj.logging.main.loggers.JclLogger - Hello 2
-01:50:58.360 [main] DEBUG aj.logging.main.loggers.JclLogger - I am on index 3
-01:50:58.360 [main] INFO  aj.logging.main.loggers.JclLogger - Hello 4
-01:50:58.360 [main] DEBUG aj.logging.main.loggers.JclLogger - I am on index 5
-01:50:58.360 [main] INFO  aj.logging.main.loggers.JclLogger - Hello 6
-01:50:58.360 [main] DEBUG aj.logging.main.loggers.JclLogger - I am on index 7
-01:50:58.360 [main] INFO  aj.logging.main.loggers.JclLogger - Hello 8
-01:50:58.360 [main] DEBUG aj.logging.main.loggers.JclLogger - I am on index 9
-01:50:58.378 [main] INFO  aj.logging.main.loggers.Log4jLogger - Hello 0
-01:50:58.378 [main] DEBUG aj.logging.main.loggers.Log4jLogger - I am on index 1
-01:50:58.379 [main] INFO  aj.logging.main.loggers.Log4jLogger - Hello 2
-01:50:58.379 [main] DEBUG aj.logging.main.loggers.Log4jLogger - I am on index 3
-01:50:58.379 [main] INFO  aj.logging.main.loggers.Log4jLogger - Hello 4
-01:50:58.379 [main] DEBUG aj.logging.main.loggers.Log4jLogger - I am on index 5
-01:50:58.379 [main] INFO  aj.logging.main.loggers.Log4jLogger - Hello 6
-01:50:58.380 [main] DEBUG aj.logging.main.loggers.Log4jLogger - I am on index 7
-01:50:58.380 [main] INFO  aj.logging.main.loggers.Log4jLogger - Hello 8
-01:50:58.380 [main] DEBUG aj.logging.main.loggers.Log4jLogger - I am on index 9
+01:50:58.356 [main] INFO  aj.log.client.loggers.JclLogger - Hello 0
+01:50:58.359 [main] DEBUG aj.log.client.loggers.JclLogger - I am on index 1
+01:50:58.360 [main] INFO  aj.log.client.loggers.JclLogger - Hello 2
+01:50:58.360 [main] DEBUG aj.log.client.loggers.JclLogger - I am on index 3
+01:50:58.360 [main] INFO  aj.log.client.loggers.JclLogger - Hello 4
+01:50:58.360 [main] DEBUG aj.log.client.loggers.JclLogger - I am on index 5
+01:50:58.360 [main] INFO  aj.log.client.loggers.JclLogger - Hello 6
+01:50:58.360 [main] DEBUG aj.log.client.loggers.JclLogger - I am on index 7
+01:50:58.360 [main] INFO  aj.log.client.loggers.JclLogger - Hello 8
+01:50:58.360 [main] DEBUG aj.log.client.loggers.JclLogger - I am on index 9
+01:50:58.378 [main] INFO  aj.log.client.loggers.Log4jLogger - Hello 0
+01:50:58.378 [main] DEBUG aj.log.client.loggers.Log4jLogger - I am on index 1
+01:50:58.379 [main] INFO  aj.log.client.loggers.Log4jLogger - Hello 2
+01:50:58.379 [main] DEBUG aj.log.client.loggers.Log4jLogger - I am on index 3
+01:50:58.379 [main] INFO  aj.log.client.loggers.Log4jLogger - Hello 4
+01:50:58.379 [main] DEBUG aj.log.client.loggers.Log4jLogger - I am on index 5
+01:50:58.379 [main] INFO  aj.log.client.loggers.Log4jLogger - Hello 6
+01:50:58.380 [main] DEBUG aj.log.client.loggers.Log4jLogger - I am on index 7
+01:50:58.380 [main] INFO  aj.log.client.loggers.Log4jLogger - Hello 8
+01:50:58.380 [main] DEBUG aj.log.client.loggers.Log4jLogger - I am on index 9
 01:50:58.380 [main] INFO  a.logging.main.loggers.LogbackLogger - Hello 0
 01:50:58.381 [main] DEBUG a.logging.main.loggers.LogbackLogger - I am on index 1
 01:50:58.381 [main] INFO  a.logging.main.loggers.LogbackLogger - Hello 2
