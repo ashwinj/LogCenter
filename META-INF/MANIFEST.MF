@@ -11,7 +11,7 @@ Bundle-ClassPath: LogCenter.jar,
  lib/log4j-over-slf4j-1.7.6.jar,
  lib/slf4j-api-1.7.6.jar
 Export-Package: aj.log.client
-Require-Bundle: org.eclipse.core.runtime;bundle-version="3.9.0"
+Import-Package: org.osgi.framework;version="1.7.0"
 Bundle-Vendor: AJ
 Bundle-Activator: aj.log.client.Activator
 Bundle-ActivationPolicy: lazy
